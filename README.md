@@ -1,7 +1,3 @@
-# dynamictheme
+# Flutter Dynamic Theme
 
-Dynamic theme switcher
-
-## Getting Started
-
-This project is implemented with dynamic_theme 1.0.1 package.
+Dynamic theme switcher is implemented with dynamic_theme 1.0.1 package.
